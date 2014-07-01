@@ -13,6 +13,20 @@ import unittest
 from PyDE import PyDE
 
 
+i = 1
+while i>0:
+    print "Daniel is a bawbag"
+    i +=1
+    
+    
+
+
+
+
+
+
+
+
 class TestPyde(unittest.TestCase):
 
     def setUp(self):
